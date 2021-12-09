@@ -1,5 +1,5 @@
 # Disease Trajectory Modelling
-Code written for Data Science &amp; Machine Learning MSc project "Constructing Disease Trajectory Networks from Diagnosis and Prescription Patterns in Healthcare Data"
+Code written for Data Science &amp; Machine Learning MSc project "Constructing Disease Trajectory Networks from Diagnosis and Prescription Patterns in Healthcare Data". Achieved distinction.
 
 ## Abstract
 Problematic polypharmacy is becoming an increasingly widespread issue, driven primarily by an ageing population. In this project we explore existing disease pathway modelling techniques and implement methods to construct disease trajectory networks using diagnosis and prescription data. In addition, we extend these methods by creating a novel algorithm which accounts for disease interactions by grouping multiple diagnoses/prescriptions into individual nodes in the networks. By revealing patterns of disease development in this way, our ultimate aim to assist with clinical decision making in the context of prescribing treatments to patients at risk of problematic polypharmacy. We also evaluate the stability of our networks and establish baseline results to be compared against in future work.
